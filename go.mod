@@ -15,7 +15,7 @@ require (
 	github.com/briandowns/spinner v1.11.1
 	github.com/c4milo/gotoolkit v0.0.0-20190525173301-67483a18c17a // indirect
 	github.com/cenkalti/backoff/v4 v4.1.3
-	github.com/cheggaaa/pb/v3 v3.0.8
+	github.com/cheggaaa/pb/v3 v3.1.0
 	github.com/cloudevents/sdk-go/v2 v2.10.1
 	github.com/docker/docker v20.10.17+incompatible
 	github.com/docker/go-units v0.4.0
@@ -67,9 +67,9 @@ require (
 	github.com/spf13/viper v1.12.0
 	github.com/zchee/go-vmnet v0.0.0-20161021174912-97ebf9174097
 	go.opencensus.io v0.23.0
-	go.opentelemetry.io/otel v1.7.0
+	go.opentelemetry.io/otel v1.8.0
 	go.opentelemetry.io/otel/sdk v1.7.0
-	go.opentelemetry.io/otel/trace v1.7.0
+	go.opentelemetry.io/otel/trace v1.8.0
 	golang.org/x/build v0.0.0-20190927031335-2835ba2e683f
 	golang.org/x/crypto v0.0.0-20220411220226-7b82a4e95df4
 	golang.org/x/exp v0.0.0-20210220032938-85be41e4509f
@@ -80,7 +80,7 @@ require (
 	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211
 	golang.org/x/text v0.3.7
 	gonum.org/v1/plot v0.11.0
-	google.golang.org/api v0.86.0
+	google.golang.org/api v0.87.0
 	gopkg.in/mgo.v2 v2.0.0-20190816093944-a6b53ec6cb22 // indirect
 	gopkg.in/yaml.v2 v2.4.0
 	k8s.io/api v0.24.2
